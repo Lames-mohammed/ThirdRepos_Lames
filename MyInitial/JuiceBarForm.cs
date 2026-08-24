@@ -249,9 +249,9 @@ namespace MyNameSpace
             float lineHeightFloat = (float)printFont.GetHeight() + 2f;
             float column1Float = e.MarginBounds.Left;
             float yFloat = e.MarginBounds.Top;
-            float column2Float = 200f;
-            float column3Float = 250f;
-            float column4Float = 500f;
+            float column2Float = 400f;
+            float column3Float = 240f;
+            float column4Float = 700f;
             float column5Float = 600f;
             string lineString;
 
