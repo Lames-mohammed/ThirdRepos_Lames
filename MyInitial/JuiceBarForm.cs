@@ -252,7 +252,7 @@ namespace MyNameSpace
             float column2Float = 400f;
             float column3Float = 240f;
             float column4Float = 700f;
-            float column5Float = 600f;
+            float column5Float = 800f;
             string lineString;
 
             // Set up heading lines.
