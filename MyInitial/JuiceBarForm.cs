@@ -164,11 +164,11 @@ namespace MyNameSpace
             {
                 case "twelveOunceRadioButton":
                     itemSizeDecimal = 3m;
-                    drinkOrder[itemCountInteger].sizeString = "14 oz";
+                    drinkOrder[itemCountInteger].sizeString = "12 oz";
                     break;
                 case "sixteenOunceRadioButton":
                     itemSizeDecimal = 3.5m;
-                    drinkOrder[itemCountInteger].sizeString = "18 oz";
+                    drinkOrder[itemCountInteger].sizeString = "16 oz";
                     break;
                 case "twentyOunceRadioButton":
                     itemSizeDecimal = 4m;
